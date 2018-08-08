@@ -13,4 +13,4 @@ In this multiplayer game, two players exchange turns trying to remember and matc
 
 ### User-Interface
 
-![Screen1](/blob/master/screenshots/simonsays.png)
+![Screen1](/screenshots/simonsays.png)
