@@ -12,6 +12,7 @@
 		D4BD820A2119B84100CD5B30 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4BD82082119B84100CD5B30 /* Main.storyboard */; };
 		D4BD820C2119B84300CD5B30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4BD820B2119B84300CD5B30 /* Assets.xcassets */; };
 		D4BD820F2119B84300CD5B30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4BD820D2119B84300CD5B30 /* LaunchScreen.storyboard */; };
+		D4BD82172119C0A800CD5B30 /* CircularButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4BD82162119C0A800CD5B30 /* CircularButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D4BD820B2119B84300CD5B30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4BD820E2119B84300CD5B30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4BD82102119B84300CD5B30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4BD82162119C0A800CD5B30 /* CircularButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				D4BD82042119B84100CD5B30 /* AppDelegate.swift */,
 				D4BD82062119B84100CD5B30 /* ViewController.swift */,
+				D4BD82162119C0A800CD5B30 /* CircularButton.swift */,
 				D4BD82082119B84100CD5B30 /* Main.storyboard */,
 				D4BD820B2119B84300CD5B30 /* Assets.xcassets */,
 				D4BD820D2119B84300CD5B30 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				D4BD82072119B84100CD5B30 /* ViewController.swift in Sources */,
 				D4BD82052119B84100CD5B30 /* AppDelegate.swift in Sources */,
+				D4BD82172119C0A800CD5B30 /* CircularButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
