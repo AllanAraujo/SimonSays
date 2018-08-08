@@ -14,3 +14,10 @@ In this multiplayer game, two players exchange turns trying to remember and matc
 ### User-Interface
 
 ![Screen1](/screenshots/simonsays.png)
+
+### Download
+
+1. Requires Xcode 9 and Swift 4
+1. Clone this project
+1. Run Xcode project on simulator or on actual device.
+1. Enjoy!
